@@ -357,7 +357,7 @@ check.TextScaled = true
 check.TextSize = 14.000
 check.MouseButton1Down:connect(function()
 	local key = key_2
-	if key.Text == "3453454372QQEREFDJFDMrm459SDSby3438" then -- Make the "Key" whatever you wish.
+	if key.Text == "EmirHubV3" then -- Make the "Key" whatever you wish.
 		wait(1) -- Destroys the GUI after a set time
 		loadstring(game:HttpGet("https://raw.githubusercontent.com/emirtube11/crack1/main/README.md",true))()
     key.Text = "Welcome To Emir HUB V3!"
